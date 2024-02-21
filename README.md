@@ -1,21 +1,21 @@
 # Java# Store System
 * Natdanai Wongsa
 
-### <ins> </ins> 
+### <ins> Main </ins> 
 <img src="images/img1.png" alt="image1" width="820" height="500" align="center"/>
 
-### <ins> </ins> 
+### <ins> Item </ins> 
 <img src="images/img2.png" alt="image1" width="820" height="500" align="center"/>
 
-### <ins> </ins> 
+### <ins> customer </ins> 
 <img src="images/img3.png" alt="image1" width="820" height="500" align="center"/>
 
-### <ins> </ins> 
+### <ins> employee </ins> 
 <img src="images/img4.png" alt="image1" width="820" height="500" align="center"/>
 
-### <ins> </ins> 
+### <ins> department </ins> 
 <img src="images/img5.png" alt="image1" width="820" height="500" align="center"/>
 
-### <ins> </ins> 
+### <ins> ItemType </ins> 
 <img src="images/img6.png" alt="image1" width="820" height="500" align="center"/>
 
